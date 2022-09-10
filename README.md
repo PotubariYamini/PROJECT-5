@@ -1,4 +1,5 @@
 Lymphography-NEUTRAL NETWORKS
+
 ![image](https://user-images.githubusercontent.com/111189874/189468540-673d612d-26a9-4fe3-8145-856e3df5922c.png)
 
 
@@ -67,6 +68,7 @@ by KNN we bulid and validate the model accurary .
 ![image](https://user-images.githubusercontent.com/111189874/189468374-0e73a139-298f-410e-ac32-d14f7e6dab7b.png)
 
 
+![image](https://user-images.githubusercontent.com/111189874/189468663-9d0b92f1-7b3b-41de-b91d-caf2320a57ec.png)
 
 
 
