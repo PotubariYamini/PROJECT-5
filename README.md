@@ -1,4 +1,10 @@
 Lymphography-NEUTRAL NETWORKS
+![image](https://user-images.githubusercontent.com/111189874/189468540-673d612d-26a9-4fe3-8145-856e3df5922c.png)
+
+
+
+
+
 
 1. About the dataset:
 * This is one of three domains provided by the Oncology Institute that has repeatedly appeared in the machine learning literature. (See also breast-cancer and primary-tumor.)
@@ -32,7 +38,6 @@ class: normal find, metastases, malign lymph, fibrosis
 * pandas
 * tensorflow keras
 * imblearn
-* searborn , matplotlib
 * sklearn libarires
 
 4. EDA of dataset:
@@ -53,6 +58,13 @@ To do this, we should first merge the x_train and y_train. Shown below is the va
 6. Build the model:
 * K-Nearest Neighbors:
 
+
+
+![image](https://user-images.githubusercontent.com/111189874/189468620-ead6d671-5eea-48e3-a52d-bb83a0868a3c.png)
+
+by KNN we bulid and validate the model accurary .
+
+![image](https://user-images.githubusercontent.com/111189874/189468374-0e73a139-298f-410e-ac32-d14f7e6dab7b.png)
 
 
 
